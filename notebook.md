@@ -41,16 +41,16 @@ Its saves time and money.
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
-|      | A named container used to store a value that may change. | `var x = 5;` |  |  |
-|      | A fixed value that cannot change once set. | `const PI = 3.14;` |  |  |
-|      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
-|      | A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
-|      | Whole number values. | `int age = 16;` |  |  |
-|      | Number values with decimals. | `double age = 16.2;` |  |  |
-|      | A value that can be true or false. | `bool isLoggedIn = false;` |  |  |
-|      | A collection of values in a specific order. | `List<String> names = [];` |  |  |
-|      | A special value that means “nothing.” | `String? name = null;` |  |  |
-|      | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |  |  |
+| Variable      | A named container used to store a value that may change. | `var x = 5;` | Username is FallenKing  | App  |
+| Constant     | A fixed value that cannot change once set. | `const PI = 3.14;` | God | The Apps Title |
+| Data Type    | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  | |
+| String     | A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
+| Integer     | Whole number values. | `int age = 16;` |   | A game score |
+|  Double    | Number values with decimals. | `double age = 16.2;` |  |  |
+| Boolean     | A value that can be true or false. | `bool isLoggedIn = false;` |  |  |
+| List      | A collection of values in a specific order. | `List<String> names = [];` | Lists to keep track of things you need | A Apps Main Menu  |
+| Null     | A special value that means “nothing.” | `String? name = null;` | When you know you are going to get a sc |  |
+| Function     | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | Turning on the lights  |  |
 |      | The information passed into a function to change how it works. | `greet(String name)` |  |  |
 |      | The result a function gives back. | `return total;` |  |  |
 |      | Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
